@@ -1,1 +1,3 @@
-it just prints the core operating system name.
+uname
+Linux uname -s
+Linux
